@@ -3,10 +3,11 @@ package at.htl.uebungjpa.business;
 import at.htl.uebungjpa.entity.Product;
 
 import javax.ejb.Singleton;
+import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
-@Singleton
+@Stateless
 public class ProductFacade {
 
     @PersistenceContext
