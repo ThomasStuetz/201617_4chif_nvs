@@ -2,62 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91735cc8-590e-4c47-8cf7-189960cd6abe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_8_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derbyclient_10_13_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_commonj_sdo_2_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_eclipselink_2_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_javax_persistence_2_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_json_1_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c4d0.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c4e1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/d490.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/d4a1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/d4b0.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/d4c1.dat" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/db.lck" afterPath="$PROJECT_DIR$/db/db/db.lck" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/log/log.ctrl" afterPath="$PROJECT_DIR$/db/db/log/log.ctrl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/log/log1.dat" afterPath="$PROJECT_DIR$/db/db/log/log1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/log/logmirror.ctrl" afterPath="$PROJECT_DIR$/db/db/log/logmirror.ctrl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c101.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c101.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c111.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c111.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c121.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c121.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c130.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c130.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c141.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c141.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c150.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c150.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c161.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c161.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c171.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c171.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c20.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c20.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c230.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c230.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c31.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c31.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c400.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c400.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c41.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c41.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c411.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c411.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c421.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c421.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c51.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c51.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c60.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c60.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c71.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c71.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c81.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c81.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c90.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c90.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/ca1.dat" afterPath="$PROJECT_DIR$/db/db/seg0/ca1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/cb1.dat" afterPath="$PROJECT_DIR$/db/db/seg0/cb1.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/cf0.dat" afterPath="$PROJECT_DIR$/db/db/seg0/cf0.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/UebungJpa_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/UebungJpa_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/529d10f6-7dbb-4171-b8f8-bfd583c2a6cd.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/529d10f6-7dbb-4171-b8f8-bfd583c2a6cd.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/at/htl/uebungjpa/business/ProductFacadeIT.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UebungJpa.iml" afterPath="$PROJECT_DIR$/UebungJpa.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/derby.log" afterPath="$PROJECT_DIR$/db/derby.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/ProductFacade.java" afterPath="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/ProductFacade.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -96,12 +42,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="persistence.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml">
+      <file leaf-file-name="ProductFacadeIT.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/at/htl/uebungjpa/business/ProductFacadeIT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="435">
+              <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,6 +60,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -131,9 +80,11 @@
         <option value="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/entity/InitBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/InitBean.java" />
         <option value="$PROJECT_DIR$/../README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/ProductFacade.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/at/htl/uebungjpa/business/ProductFacadeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/ProductFacade.java" />
+        <option value="$PROJECT_DIR$/src/test/java/at/htl/uebungjpa/business/ProductFacadeIT.java" />
       </list>
     </option>
   </component>
@@ -256,6 +207,14 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="business" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -375,8 +334,43 @@
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Derby (Remote)" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
   </component>
-  <component name="RunManager" selected="JBoss Server.Wildfly">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="at.htl.uebungjpa.business" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductFacadeIT">
+    <configuration default="false" name="ProductFacadeIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="at.htl.uebungjpa.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="UebungJpa" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="at.htl.uebungjpa.business" />
+      <option name="MAIN_CLASS_NAME" value="at.htl.uebungjpa.business.ProductFacadeIT" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -804,9 +798,15 @@
         </option>
       </method>
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JBoss Server.Wildfly" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ProductFacadeIT" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ProductFacadeIT" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
@@ -825,12 +825,28 @@
       <option name="presentableId" value="Default" />
       <updated>1481017366780</updated>
       <workItem from="1481017368181" duration="2859000" />
-      <workItem from="1481103546228" duration="2483000" />
+      <workItem from="1481103546228" duration="3780000" />
     </task>
+    <task id="LOCAL-00001" summary="für Integration-Tests konfiguriert (persistence.xml, pom.xml), ProductFacade auf Stateless geändert">
+      <created>1481106483688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1481106483688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ProductFacadeIT - 2016.12.07 at 11h 39m 28s.xml">
+      <configuration name="ProductFacadeIT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductFacadeIT - 2016.12.07 at 11h 39m 48s.xml">
+      <configuration name="ProductFacadeIT" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5342000" />
+    <option name="totallyTimeSpent" value="6639000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -870,7 +886,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910156" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38691437" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4515625" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -901,9 +917,9 @@
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -913,7 +929,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910156" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3875" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2786753" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -926,6 +942,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="für Integration-Tests konfiguriert (persistence.xml, pom.xml), ProductFacade auf Stateless geändert" />
+    <option name="LAST_COMMIT_MESSAGE" value="für Integration-Tests konfiguriert (persistence.xml, pom.xml), ProductFacade auf Stateless geändert" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -955,9 +975,11 @@
         <state relative-caret-position="120">
           <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding>
-            <marker date="1481105309000" expanded="true" signature="43:217" ph="..." />
-            <marker date="1481105309000" expanded="false" signature="352:363" ph=" { " />
-            <marker date="1481105309000" expanded="false" signature="383:389" ph=" }" />
+            <marker date="1481107684000" expanded="true" signature="43:217" ph="..." />
+            <marker date="1481107684000" expanded="false" signature="344:355" ph=" { " />
+            <marker date="1481107684000" expanded="false" signature="375:381" ph=" }" />
+            <marker date="1481107684000" expanded="true" signature="410:421" ph=" { " />
+            <marker date="1481107684000" expanded="true" signature="430:436" ph=" }" />
           </folding>
         </state>
       </provider>
@@ -1089,18 +1111,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/ProductFacade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding>
-            <marker date="1481105309000" expanded="true" signature="43:217" ph="..." />
-            <marker date="1481105309000" expanded="false" signature="352:363" ph=" { " />
-            <marker date="1481105309000" expanded="false" signature="383:389" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1914">
@@ -1125,9 +1135,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="58">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="36" />
+          <folding>
+            <marker date="1481106291000" expanded="true" signature="113:945" ph="..." />
+            <marker date="1481106291000" expanded="true" signature="186:929" ph="..." />
+            <marker date="1481106291000" expanded="true" signature="407:905" ph="..." />
+            <marker date="1481106291000" expanded="true" signature="489:536" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/ProductFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <marker date="1481107684000" expanded="true" signature="43:217" ph="..." />
+            <marker date="1481107684000" expanded="false" signature="344:355" ph=" { " />
+            <marker date="1481107684000" expanded="false" signature="375:381" ph=" }" />
+            <marker date="1481107684000" expanded="true" signature="410:421" ph=" { " />
+            <marker date="1481107684000" expanded="true" signature="430:436" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/at/htl/uebungjpa/business/ProductFacadeIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

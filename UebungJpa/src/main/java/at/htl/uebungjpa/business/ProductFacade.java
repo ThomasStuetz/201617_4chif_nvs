@@ -11,10 +11,15 @@ import javax.persistence.PersistenceContext;
 public class ProductFacade {
 
     @PersistenceContext
-    private EntityManager em;
+    EntityManager em;
 
     public void save(Product product) {
         em.persist(product);
+    }
+
+
+    public int giveMeTwo() {
+        return 2;
     }
 
 }
