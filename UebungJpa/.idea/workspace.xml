@@ -1,95 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91735cc8-590e-4c47-8cf7-189960cd6abe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/README_DO_NOT_TOUCH_FILES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/log/README_DO_NOT_TOUCH_FILES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/log/log.ctrl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/log/log1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/log/logmirror.ctrl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/README_DO_NOT_TOUCH_FILES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c10.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c101.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c111.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c121.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c130.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c141.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c150.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c161.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c171.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c180.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c191.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c1a1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c1b1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c1c0.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c1d1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c1e0.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c1f1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c20.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c200.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c211.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c221.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c230.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c241.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c251.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c260.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c271.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c281.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c290.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c2a1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c2b1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c2c1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c2d0.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c2e1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c2f0.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c300.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c31.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c311.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c321.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c331.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c340.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c351.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c361.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c371.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c380.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c391.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c3a1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c3b1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c3c0.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c3d1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c3e1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c3f1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c400.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c41.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c411.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c421.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c430.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c441.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c451.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c461.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c470.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c481.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c51.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c60.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c71.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c81.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/c90.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/ca1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/cb1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/cc0.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/cd1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/ce1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/seg0/cf0.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/db/service.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/derby.log" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/db.lck" afterPath="$PROJECT_DIR$/db/db/db.lck" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="91735cc8-590e-4c47-8cf7-189960cd6abe" name="Default" comment="Unit Test zum Anlegen eines Produkts erstellt">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/log/log1.dat" afterPath="$PROJECT_DIR$/db/db/log/log1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db/seg0/c60.dat" afterPath="$PROJECT_DIR$/db/db/seg0/c60.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UebungJpa.iml" afterPath="$PROJECT_DIR$/UebungJpa.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/InitBean.java" afterPath="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/InitBean.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/ProductFacade.java" afterPath="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/ProductFacade.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/entity/Product.java" afterPath="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/entity/Product.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/at/htl/uebungjpa/business/ProductFacadeIT.java" afterPath="$PROJECT_DIR$/src/test/java/at/htl/uebungjpa/business/ProductFacadeIT.java" />
@@ -135,14 +51,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ProductFacadeIT.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/at/htl/uebungjpa/business/ProductFacadeIT.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+      <file leaf-file-name="APP.JP_PRODUCT" pinned="false" current-in-tab="true">
+        <entry file="dbDummy://dbtable:/897d2b07/529d10f6-7dbb-4171-b8f8-bfd583c2a6cd/APP.JP_PRODUCT">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -172,13 +91,13 @@
         <option value="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/entity/InitBean.java" />
         <option value="$PROJECT_DIR$/../README.md" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/src/test/java/at/htl/uebungjpa/business/ProductFacadeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/InitBean.java" />
         <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/ProductFacade.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/entity/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/ProductFacade.java" />
         <option value="$PROJECT_DIR$/src/test/java/at/htl/uebungjpa/business/ProductFacadeIT.java" />
       </list>
     </option>
@@ -1046,7 +965,7 @@
       <workItem from="1481017368181" duration="2859000" />
       <workItem from="1481103546228" duration="3780000" />
       <workItem from="1481724676074" duration="408000" />
-      <workItem from="1481726924398" duration="4211000" />
+      <workItem from="1481726924398" duration="5217000" />
     </task>
     <task id="LOCAL-00001" summary="für Integration-Tests konfiguriert (persistence.xml, pom.xml), ProductFacade auf Stateless geändert">
       <created>1481106483688</created>
@@ -1055,22 +974,17 @@
       <option name="project" value="LOCAL" />
       <updated>1481106483688</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Unit Test zum Anlegen eines Produkts erstellt">
+      <created>1481731206204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1481731206204</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProductFacadeIT - 2016.12.14 at 16h 37m 16s.xml">
-      <configuration name="ProductFacadeIT" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductFacadeIT - 2016.12.14 at 16h 37m 47s.xml">
-      <configuration name="ProductFacadeIT" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductFacadeIT - 2016.12.14 at 16h 37m 51s.xml">
-      <configuration name="ProductFacadeIT" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductFacadeIT - 2016.12.14 at 16h 38m 12s.xml">
-      <configuration name="ProductFacadeIT" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ProductFacadeIT - 2016.12.14 at 16h 40m 10s.xml">
       <configuration name="ProductFacadeIT" configurationId="JUnit" />
     </history-entry>
@@ -1089,9 +1003,21 @@
     <history-entry file="ProductFacadeIT - 2016.12.14 at 16h 58m 35s.xml">
       <configuration name="ProductFacadeIT" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ProductFacadeIT - 2016.12.14 at 17h 02m 49s.xml">
+      <configuration name="ProductFacadeIT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductFacadeIT - 2016.12.14 at 17h 14m 24s.xml">
+      <configuration name="ProductFacadeIT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductFacadeIT - 2016.12.14 at 17h 14m 59s.xml">
+      <configuration name="ProductFacadeIT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductFacadeIT - 2016.12.14 at 17h 15m 07s.xml">
+      <configuration name="ProductFacadeIT" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11258000" />
+    <option name="totallyTimeSpent" value="12264000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1108,7 +1034,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29788962" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1124,7 +1050,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3284091" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284091" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1185,12 +1111,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="für Integration-Tests konfiguriert (persistence.xml, pom.xml), ProductFacade auf Stateless geändert" />
-    <option name="LAST_COMMIT_MESSAGE" value="für Integration-Tests konfiguriert (persistence.xml, pom.xml), ProductFacade auf Stateless geändert" />
+    <MESSAGE value="Unit Test zum Anlegen eines Produkts erstellt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unit Test zum Anlegen eines Produkts erstellt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1208,7 +1143,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1481732104254" expanded="true" signature="43:349" placeholder="..." />
+            <marker date="1481732104254" expanded="true" signature="535:679" placeholder="{...}" />
+            <marker date="1481732104254" expanded="true" signature="727:1038" placeholder="{...}" />
+            <marker date="1481732104254" expanded="true" signature="1090:1496" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -1218,7 +1156,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1481732104254" expanded="true" signature="43:349" placeholder="..." />
+            <marker date="1481732104254" expanded="true" signature="535:679" placeholder="{...}" />
+            <marker date="1481732104254" expanded="true" signature="727:1038" placeholder="{...}" />
+            <marker date="1481732104254" expanded="true" signature="1090:1496" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -1235,10 +1176,11 @@
         <state relative-caret-position="120">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding>
-            <marker date="1481730857122" expanded="false" signature="43:254" placeholder="..." />
-            <marker date="1481730857122" expanded="false" signature="381:392" placeholder=" { " />
-            <marker date="1481730857122" expanded="false" signature="412:418" placeholder=" }" />
-            <marker date="1481730857122" expanded="true" signature="462:640" placeholder="{...}" />
+            <marker date="1481732061170" expanded="false" signature="43:277" placeholder="..." />
+            <marker date="1481732061170" expanded="false" signature="404:415" placeholder=" { " />
+            <marker date="1481732061170" expanded="false" signature="435:441" placeholder=" }" />
+            <marker date="1481732061170" expanded="true" signature="485:663" placeholder="{...}" />
+            <marker date="1481732061170" expanded="true" signature="700:829" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -1252,13 +1194,6 @@
     </entry>
     <entry file="dbDummy://dbtable:/84f8a7a8/529d10f6-7dbb-4171-b8f8-bfd583c2a6cd/APP.JP_PRODUCT" />
     <entry file="file://$PROJECT_DIR$/../README.md" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="52" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/15e50c1c/529d10f6-7dbb-4171-b8f8-bfd583c2a6cd/APP.JP_PRODUCT" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/529d10f6-7dbb-4171-b8f8-bfd583c2a6cd/console.sql">
       <provider selected="true" editor-type-id="text-editor">
@@ -1287,65 +1222,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        <state relative-caret-position="160">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="150">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <marker date="1481724633300" expanded="true" signature="113:945" placeholder="..." />
+            <marker date="1481724633300" expanded="true" signature="186:929" placeholder="..." />
+            <marker date="1481724633300" expanded="true" signature="407:905" placeholder="..." />
+            <marker date="1481724633300" expanded="true" signature="489:536" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1481724633300" expanded="true" signature="113:454" placeholder="..." />
+            <marker date="1481724633300" expanded="true" signature="172:439" placeholder="..." />
+            <marker date="1481724633300" expanded="true" signature="264:415" placeholder="..." />
+            <marker date="1481724633300" expanded="true" signature="346:393" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/entity/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="64">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
           <folding>
-            <marker date="1481731055934" expanded="true" signature="63:242" placeholder="@{...}" />
-            <marker date="1481731055934" expanded="true" signature="498:767" placeholder="Constructors" />
-            <marker date="1481731055934" expanded="true" signature="541:548" placeholder="{...}" />
-            <marker date="1481731055934" expanded="true" signature="615:751" placeholder="{...}" />
-            <marker date="1481731055934" expanded="true" signature="773:1533" placeholder="Getter and Setter" />
-            <marker date="1481731055934" expanded="false" signature="823:834" placeholder=" { " />
-            <marker date="1481731055934" expanded="false" signature="844:850" placeholder=" }" />
-            <marker date="1481731055934" expanded="false" signature="882:893" placeholder=" { " />
-            <marker date="1481731055934" expanded="false" signature="906:912" placeholder=" }" />
-            <marker date="1481731055934" expanded="false" signature="941:952" placeholder=" { " />
-            <marker date="1481731055934" expanded="false" signature="964:970" placeholder=" }" />
-            <marker date="1481731055934" expanded="false" signature="1008:1019" placeholder=" { " />
-            <marker date="1481731055934" expanded="false" signature="1036:1042" placeholder=" }" />
-            <marker date="1481731055934" expanded="false" signature="1072:1083" placeholder=" { " />
-            <marker date="1481731055934" expanded="false" signature="1096:1102" placeholder=" }" />
-            <marker date="1481731055934" expanded="false" signature="1142:1153" placeholder=" { " />
-            <marker date="1481731055934" expanded="false" signature="1172:1178" placeholder=" }" />
-            <marker date="1481731055934" expanded="false" signature="1213:1224" placeholder=" { " />
-            <marker date="1481731055934" expanded="false" signature="1245:1251" placeholder=" }" />
-            <marker date="1481731055934" expanded="false" signature="1304:1315" placeholder=" { " />
-            <marker date="1481731055934" expanded="false" signature="1350:1356" placeholder=" }" />
-            <marker date="1481731055934" expanded="false" signature="1390:1401" placeholder=" { " />
-            <marker date="1481731055934" expanded="false" signature="1418:1424" placeholder=" }" />
-            <marker date="1481731055934" expanded="false" signature="1473:1484" placeholder=" { " />
-            <marker date="1481731055934" expanded="false" signature="1511:1517" placeholder=" }" />
+            <marker date="1481732061110" expanded="true" signature="63:345" placeholder="@{...}" />
+            <marker date="1481732061110" expanded="true" signature="601:870" placeholder="Constructors" />
+            <marker date="1481732061110" expanded="true" signature="644:651" placeholder="{...}" />
+            <marker date="1481732061110" expanded="true" signature="718:854" placeholder="{...}" />
+            <marker date="1481732061110" expanded="true" signature="876:1636" placeholder="Getter and Setter" />
+            <marker date="1481732061110" expanded="false" signature="926:937" placeholder=" { " />
+            <marker date="1481732061110" expanded="false" signature="947:953" placeholder=" }" />
+            <marker date="1481732061110" expanded="false" signature="985:996" placeholder=" { " />
+            <marker date="1481732061110" expanded="false" signature="1009:1015" placeholder=" }" />
+            <marker date="1481732061110" expanded="false" signature="1044:1055" placeholder=" { " />
+            <marker date="1481732061110" expanded="false" signature="1067:1073" placeholder=" }" />
+            <marker date="1481732061110" expanded="false" signature="1111:1122" placeholder=" { " />
+            <marker date="1481732061110" expanded="false" signature="1139:1145" placeholder=" }" />
+            <marker date="1481732061110" expanded="false" signature="1175:1186" placeholder=" { " />
+            <marker date="1481732061110" expanded="false" signature="1199:1205" placeholder=" }" />
+            <marker date="1481732061110" expanded="false" signature="1245:1256" placeholder=" { " />
+            <marker date="1481732061110" expanded="false" signature="1275:1281" placeholder=" }" />
+            <marker date="1481732061110" expanded="false" signature="1316:1327" placeholder=" { " />
+            <marker date="1481732061110" expanded="false" signature="1348:1354" placeholder=" }" />
+            <marker date="1481732061110" expanded="false" signature="1407:1418" placeholder=" { " />
+            <marker date="1481732061110" expanded="false" signature="1453:1459" placeholder=" }" />
+            <marker date="1481732061110" expanded="false" signature="1493:1504" placeholder=" { " />
+            <marker date="1481732061110" expanded="false" signature="1521:1527" placeholder=" }" />
+            <marker date="1481732061110" expanded="false" signature="1576:1587" placeholder=" { " />
+            <marker date="1481732061110" expanded="false" signature="1614:1620" placeholder=" }" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/uebungjpa/business/ProductFacade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="260">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
           <folding>
-            <marker date="1481730857122" expanded="false" signature="43:254" placeholder="..." />
-            <marker date="1481730857122" expanded="false" signature="381:392" placeholder=" { " />
-            <marker date="1481730857122" expanded="false" signature="412:418" placeholder=" }" />
-            <marker date="1481730857122" expanded="true" signature="462:640" placeholder="{...}" />
+            <marker date="1481732061170" expanded="false" signature="43:277" placeholder="..." />
+            <marker date="1481732061170" expanded="false" signature="404:415" placeholder=" { " />
+            <marker date="1481732061170" expanded="false" signature="435:441" placeholder=" }" />
+            <marker date="1481732061170" expanded="true" signature="485:663" placeholder="{...}" />
+            <marker date="1481732061170" expanded="true" signature="700:829" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/at/htl/uebungjpa/business/ProductFacadeIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+          <folding>
+            <marker date="1481732104254" expanded="true" signature="43:349" placeholder="..." />
+            <marker date="1481732104254" expanded="true" signature="535:679" placeholder="{...}" />
+            <marker date="1481732104254" expanded="true" signature="727:1038" placeholder="{...}" />
+            <marker date="1481732104254" expanded="true" signature="1090:1496" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -1360,16 +1327,6 @@
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/at/htl/uebungjpa/business/ProductFacadeIT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

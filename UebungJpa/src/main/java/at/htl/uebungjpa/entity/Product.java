@@ -6,7 +6,10 @@ import javax.persistence.*;
 @Table(name = "JP_PRODUCT")
 @NamedQueries({
         @NamedQuery(name = "Product.findByName",
-                    query = "select p from Product p where p.name = :NAME")
+                    query = "select p from Product p where p.name = :NAME"),
+
+        @NamedQuery(name = "Product.findAll",
+                    query = "select p from Product p")
 })
 public class Product {
 

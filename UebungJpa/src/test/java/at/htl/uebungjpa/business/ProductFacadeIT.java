@@ -8,6 +8,8 @@ import org.junit.runners.MethodSorters;
 import javax.persistence.EntityManager;
 import javax.persistence.Persistence;
 
+import java.util.List;
+
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.*;
 
@@ -36,6 +38,19 @@ public class ProductFacadeIT { // Integration Test
 
         Product p = productFacade.findByName("birne");
         assertThat(p.getName(), is("birne"));
+
+    }
+
+    @Test
+    public void t020findAllProductsOk() {
+        productFacade.em.getTransaction().begin();
+        productFacade.save(new Product("pfirsich", 100.0, 25));
+        productFacade.save(new Product("zitrone", 200.0, 35));
+        productFacade.save(new Product("kokosnuss", 300.0, 45));
+        productFacade.em.getTransaction().commit();
+
+        List<Product> products = productFacade.findAll();
+        assertThat(products.size(), is(5));
 
     }
 
