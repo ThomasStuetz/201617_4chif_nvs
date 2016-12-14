@@ -4,12 +4,17 @@ import javax.persistence.*;
 
 @Entity
 @Table(name = "JP_PRODUCT")
+@NamedQueries({
+        @NamedQuery(name = "Product.findByName",
+                    query = "select p from Product p where p.name = :NAME")
+})
 public class Product {
 
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     private
     Long id;
 
+    @Column(unique = true)
     private String name;
     private double price;
     private int amountInStock;

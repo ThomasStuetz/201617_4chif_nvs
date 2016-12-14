@@ -2,13 +2,10 @@
 <project version="4">
   <component name="dataSourceStorageLocal">
     <data-source name="db@localhost" uuid="529d10f6-7dbb-4171-b8f8-bfd583c2a6cd">
-      <database-info product="Apache Derby" version="10.11.1.2 - (1629631)" jdbc-version="4.2" driver-name="Apache Derby Network Client JDBC Driver" driver-version="10.11.1.1 - (1616546)">
-        <identifier-quote-string>&quot;</identifier-quote-string>
-      </database-info>
-      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
       <user-name>app</user-name>
-      <resolve-scope>:APP</resolve-scope>
+      <schema-pattern>*.APP</schema-pattern>
+      <default-schemas>*.APP</default-schemas>
     </data-source>
   </component>
 </project>
