@@ -1,14 +1,14 @@
-Wed Dec 07 11:08:48 CET 2016 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+Wed Dec 14 16:11:54 CET 2016 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
 ----------------------------------------------------------------
-Wed Dec 07 11:09:12 CET 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0158-d8c1-b436-00000e8b0d30 
-on database directory /Users/stuetz/Dropbox/htl/skripten/java.4jg.nvs/4CHIF.2016_17/git/201617_4chif_nvs/UebungJpa/db/db with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
-Loaded from file:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/db/lib/derby.jar
+Wed Dec 14 16:11:56 CET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0158-fde3-cdc5-0000069ecad0 
+on database directory /local/t.stuetz/201617_4chif_nvs/UebungJpa/db/db with class loader sun.misc.Launcher$AppClassLoader@50a5314 
+Loaded from file:/opt/jdk8/db/lib/derby.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_112-b16
-user.dir=/Users/stuetz/Dropbox/htl/skripten/java.4jg.nvs/4CHIF.2016_17/git/201617_4chif_nvs/UebungJpa/db
-os.name=Mac OS X
-os.arch=x86_64
-os.version=10.12.1
+java.runtime.version=1.7.0_101-b00
+user.dir=/local/t.stuetz/201617_4chif_nvs/UebungJpa/db
+os.name=Linux
+os.arch=amd64
+os.version=3.19.0-59-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''

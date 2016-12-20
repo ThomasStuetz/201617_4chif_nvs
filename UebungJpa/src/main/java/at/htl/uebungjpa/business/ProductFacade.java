@@ -6,6 +6,8 @@ import javax.ejb.Singleton;
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
+import javax.persistence.TypedQuery;
+import java.util.List;
 
 @Stateless
 public class ProductFacade {
@@ -17,9 +19,22 @@ public class ProductFacade {
         em.persist(product);
     }
 
+    public Product findByName(String name){
 
-    public int giveMeTwo() {
-        return 2;
+        return em
+                .createNamedQuery("Product.findByName", Product.class)
+                .setParameter("NAME", name)
+                .getSingleResult();
+
     }
+
+    public List<Product> findAll() {
+
+        return em
+                .createNamedQuery("Product.findAll", Product.class)
+                .getResultList();
+
+    }
+
 
 }

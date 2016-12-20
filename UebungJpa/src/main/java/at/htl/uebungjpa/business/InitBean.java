@@ -16,6 +16,7 @@ public class InitBean {
     @Inject
     ProductFacade productFacade;
 
+
     public InitBean() {
     }
 
