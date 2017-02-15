@@ -2,16 +2,25 @@ package at.htl.zoo.entity;
 
 import javax.persistence.*;
 
+
+@NamedQueries({
+        @NamedQuery(name = "Animal.findAll",
+                query = "select a from Animal a")
+})
 @Entity
 @Inheritance(strategy = InheritanceType.JOINED)
 @DiscriminatorColumn
 public abstract class Animal {
 
-    @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private
     Long id;
 
     private String name;
+
+    @Column(name = "DTYPE", insertable = false, updatable = false)
+    private String dType;
 
     public Animal() {
     }
@@ -19,7 +28,6 @@ public abstract class Animal {
     public Animal(String name) {
         this.setName(name);
     }
-
 
     public Long getId() {
         return id;
@@ -35,6 +43,14 @@ public abstract class Animal {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String getdType() {
+        return dType;
+    }
+
+    public void setdType(String dType) {
+        this.dType = dType;
     }
 
     @Override
